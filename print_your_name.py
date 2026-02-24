@@ -14,7 +14,7 @@ t.hideturtle()
 # Escribir texto
 t.penup()
 t.goto(0, 0)
-t.write("Hola Mundo", align="center", font=("Arial", 24, "bold"))
+t.write("Prueba1", align="center", font=("Arial", 24, "bold"))
 
 # Mantener la ventana abierta hasta hacer clic
 pantalla.exitonclick()
